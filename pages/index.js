@@ -7,8 +7,4 @@ function Home() {
   );
 }
 
-function test() {
-  console.log("fdaçfas");
-}
-
 export default Home;
